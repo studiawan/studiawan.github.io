@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Hudan Studiawan
 description: Hudan's personal pages.
+
+menu:
+    Home: /
+    Publications: / publications
