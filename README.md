@@ -16,3 +16,11 @@
 ## Publications
 
 [List of publications.](https://studiawan.github.io/publications)
+
+## Research interests
+
+* Digital forensics
+* Machine learning
+* Natural language processing
+* Graph processing
+* Distributed systems
